@@ -7,12 +7,12 @@
 
 /* Changing background color */
 body {
-  background: var(--red-color) !important;
+  background: var(--bg-color) !important;
 }
 
 /* Changing link color */
 .nav-item .nav-link {
-  color: var(--white-color);
+  color: var(--blue-color);
 }
 
 /* Hero section background image */
